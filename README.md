@@ -1,4 +1,4 @@
-# ebpf-load-average
+# load-average-measurement
 Measure system load average via pidstat, iostat and ebpf (offcputime.py).
 
 # Reference
